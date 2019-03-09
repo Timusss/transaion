@@ -5999,42 +5999,42 @@
   <string>
     <id>1061712</id>
     <name>STR_DIC_W_LF2_SZ_G1_NPC</name>
-    <body>Novan's Crossing;It is located on the road from [%dic:STR_DIC_W_LF2_SZ_A1] to[%dic:STR_DIC_W_LF2_SZ_G1].</body>
+    <body>ﻦﻣ ﻖﻳﺮﻄﻟﺍ ﻰﻠﻋ ﻊﻘﻳ ؛ ﻥﺎﻓﻮﻧ ﺮﺒﻌﻣ [%dic:STR_DIC_W_LF2_SZ_A1] ﻰﻟﺍ[%dic:STR_DIC_W_LF2_SZ_G1].</body>
   </string>
   <string>
     <id>1061713</id>
     <name>STR_DIC_W_LDF4_Advance_SZ_I_02</name>
-    <body>Ruins of the Temple of Ascension;A region in Southern Akaron where Tiamat ascended to Dragon Lord. The ruins of the temple which was built in her honour can be found here.</body>
+    <body>.ﺎﻨﻫ ﺎﻫﺩﺎﺟﺍ ﻦﻜﻤﻳ ﺎﻬﻓﺮﺷ ﻰﻠﻋ ﺖﻴﻨﺑ ﻲﺘﻟﺍ ﺪﺒﻌﻤﻟﺍ ﺽﺎﻘﻧﺍ.ﻦﻴﻨﺘﻟﺍ ﺪﻴﺴﻟﺍ ﻰﻟﺇ ﺕﺎﻣﺎﻴﺗ ﺪﻌﺻ ﺚﻴﺣ ﻥﻭﺭﺎﻛﺍ ﺏﻮﻨﺟ ﻲﻓ ﺔﻘﻄﻨﻣ;ﺩﻮﻌﺼﻟﺍ ﺪﺒﻌﻣ ﺽﺎﻘﻧﺍ</body>
   </string>
   <string>
     <id>1061714</id>
     <name>STR_DIC_W_LDF4_Advance_SZ_V01</name>
-    <body>Central Base;A defence post in [%dic:STR_DIC_W_LDF4_Advance_SZ_K_01] that can be occupied.</body>
+    <body>ﻲﻓ ﻲﻋﺎﻓﺩ ﻊﻗﻮﻣ ؛ ﺔﻳﺰﻛﺮﻣ ﺓﺪﻋﺎﻗ [%dic:STR_DIC_W_LDF4_Advance_SZ_K_01] .ﺎﻬﻟﻼﺘﺣﺍ ﻦﻜﻤﻳ ﻲﺘﻟﺍ</body>
   </string>
   <string>
     <id>1061715</id>
     <name>STR_DIC_W_LDF4_Advance_SZ_V02</name>
-    <body>Northern Operations Base;A defence post at [%dic:STR_DIC_W_LDF4_Advance_SZ_B_01] that can be occupied.</body>
+    <body>ﻲﻓ ﻲﻋﺎﻓﺩ ﻊﻗﻮﻣ ؛ ﺔﻴﻟﺎﻤﺸﻟﺍ ﺕﺎﻴﻠﻤﻌﻟﺍ ﺓﺪﻋﺎﻗ [%dic:STR_DIC_W_LDF4_Advance_SZ_B_01] .ﺎﻬﻟﻼﺘﺣﺍ ﻦﻜﻤﻳ ﻲﺘﻟﺍ</body>
   </string>
   <string>
     <id>1061716</id>
     <name>STR_DIC_W_LDF4_Advance_SZ_V03</name>
-    <body>Southern Operations Base;A defence post in [%dic:STR_DIC_W_LDF4_Advance_SZ_G_01] that can be occupied.</body>
+    <body>ﻲﻓ ﻲﻋﺎﻓﺩ ﻊﻗﻮﻣ ؛ ﺔﻴﺑﻮﻨﺠﻟﺍ ﺕﺎﻴﻠﻤﻌﻟﺍ ﺓﺪﻋﺎﻗ [%dic:STR_DIC_W_LDF4_Advance_SZ_G_01] .ﺎﻬﻟﻼﺘﺣﺍ ﻦﻜﻤﻳ ﻲﺘﻟﺍ</body>
   </string>
   <string>
     <id>1061717</id>
     <name>STR_DIC_W_LDF4_Advance_SZ_V04</name>
-    <body>Northern Guard Post;A defence post on the [%dic:STR_DIC_W_LDF4_Advance_SZ_B_01] that can be occupied.</body>
+    <body>ﻲﻓ ﻲﻋﺎﻓﺩ ﺰﻛﺮﻣ ؛ ﻲﻟﺎﻤﺸﻟﺍ ﺱﺮﺤﻟﺍ ﺰﻛﺮﻣ [%dic:STR_DIC_W_LDF4_Advance_SZ_B_01] .ﻪﻟﻼﺘﺣﺍ ﻦﻜﻤﻳ ﻱﺬﻟﺍ</body>
   </string>
   <string>
     <id>1061718</id>
     <name>STR_DIC_W_LDF4_Advance_SZ_V05</name>
-    <body>Eastern Guard Post;A defence post in the [%dic:STR_DIC_W_LDF4_Advance_SZ_C_01] that can be occupied.</body>
+    <body>ﻲﻓ ﻲﻋﺎﻓﺩ ﺰﻛﺮﻣ ؛ ﻲﻗﺮﺸﻟﺍ ﺱﺮﺤﻟﺍ ﺰﻛﺮﻣ [%dic:STR_DIC_W_LDF4_Advance_SZ_C_01] .ﻪﻟﻼﺘﺣﺍ ﻦﻜﻤﻳ ﻱﺬﻟﺍ</body>
   </string>
   <string>
     <id>1061719</id>
     <name>STR_DIC_W_LDF4_Advance_SZ_V06</name>
-    <body>Eastern Operations Base;A defence post in the [%dic:STR_DIC_W_LDF4_Advance_SZ_D_01] that can be occupied.</body>
+    <body>ﻲﻓ ﻲﻋﺎﻓﺩ ﻊﻗﻮﻣ ،ﺔﻴﻗﺮﺸﻟﺍ ﺕﺎﻴﻠﻤﻌﻟﺍ ﺓﺪﻋﺎﻗ [%dic:STR_DIC_W_LDF4_Advance_SZ_D_01] .ﺎﻬﻟﻼﺘﺣﺍ ﻦﻜﻤﻳ ﻲﺘﻟﺍ</body>
   </string>
   <string>
     <id>1061720</id>
