@@ -6039,167 +6039,167 @@
   <string>
     <id>1061720</id>
     <name>STR_DIC_W_LDF4_Advance_SZ_V07</name>
-    <body>Western Supply Base;A defence post on the [%dic:STR_DIC_W_LDF4_Advance_SZ_E_01] that can be occupied.</body>
+    <body>ﻰﻠﻋ ﻲﻋﺎﻓﺩ ﻊﻗﻮﻣ ؛ ﺔﻴﺑﺮﻐﻟﺍ ﻦﻳﻮﻤﺘﻟﺍ ﺓﺪﻋﺎﻗ [%dic:STR_DIC_W_LDF4_Advance_SZ_E_01] .ﺎﻬﻟﻼﺘﺣﺍ ﻦﻜﻤﻳ ﻲﺘﻟﺍ</body>
   </string>
   <string>
     <id>1061721</id>
     <name>STR_DIC_W_LDF4_Advance_SZ_V08</name>
-    <body>Southern Guard Post;A defence post in the [%dic:STR_DIC_W_LDF4_Advance_SZ_I_01] that can be occupied.</body>
+    <body>ﻲﻓ ﻉﺎﻓﺩ ﺰﻛﺮﻣ ؛ ﻲﺑﻮﻨﺠﻟﺍ ﺱﺮﺤﻟﺍ ﺰﻛﺮﻣ [%dic:STR_DIC_W_LDF4_Advance_SZ_I_01] .ﺎﻬﻟﻼﺘﺣﺍ ﻦﻜﻤﻳ ﻱﺬﻟﺍ</body>
   </string>
   <string>
     <id>1061722</id>
     <name>STR_DIC_W_LDF4_Advance_SZ_V09</name>
-    <body>Western Guard Post;A defence post in [%dic:STR_DIC_W_LDF4_Advance_SZ_H_01] that can be occupied.</body>
+    <body>ﻲﻓ ﻲﻋﺎﻓﺩ ﻊﻗﻮﻣ ؛ ﻲﺑﺮﻐﻟﺍ ﺱﺮﺤﻟﺍ ﺰﻛﺮﻣ [%dic:STR_DIC_W_LDF4_Advance_SZ_H_01] .ﻪﻟﻼﺘﺣﺍ ﻦﻜﻤﻳ ﻱﺬﻟﺍ</body>
   </string>
   <string>
     <id>1061723</id>
     <name>STR_DIC_W_LDF4_Advance_SZ_V10</name>
-    <body>Western Operations Base;A defence post in the [%dic:STR_DIC_W_LDF4_Advance_SZ_I_02] that can be occupied.</body>
+    <body>ﻲﻓ ﻉﺎﻓﺩ ﻊﻗﻮﻣ ؛ ﺔﻴﺑﺮﻐﻟﺍ ﺕﺎﻴﻠﻤﻌﻟﺍ ﺓﺪﻋﺎﻗ [%dic:STR_DIC_W_LDF4_Advance_SZ_I_02] .ﺎﻬﻟﻼﺘﺣﺍ ﻦﻜﻤﻳ ﻲﺘﻟﺍ</body>
   </string>
   <string>
     <id>1061724</id>
     <name>STR_DIC_W_LDF4_Advance_SZ_V11</name>
-    <body>Eastern Supply Base;A defence post in [%dic:STR_DIC_W_LDF4_Advance_SZ_J_01] that can be occupied.</body>
+    <body>ﻲﻓ ﻲﻋﺎﻓﺩ ﻊﻗﻮﻣ ؛ ﺔﻴﻗﺮﺸﻟﺍ ﻦﻳﻮﻤﺘﻟﺍ ﺓﺪﻋﺎﻗ [%dic:STR_DIC_W_LDF4_Advance_SZ_J_01] .ﺎﻬﻟﻼﺘﺣﺍ ﻦﻜﻤﻳ ﻲﺘﻟﺍ</body>
   </string>
   <string>
     <id>1061725</id>
     <name>STR_DIC_W_LDF4_Advance_SZ_V12</name>
-    <body>Obelisk on the northern supply route;An obelisk on the [%dic:STR_DIC_W_LDF4_Advance_SZ_B_01].</body>
+    <body>ﻰﻠﻋ ﺡﺍﻭﺭﺍ ﺐﺼﻧ ؛ ﻲﻟﺎﻤﺸﻟﺍ ﻦﻳﻮﻤﺘﻟﺍ ﻖﻳﺮﻃ ﻰﻠﻋ ﺡﺍﻭﺭﺍ ﺐﺼﻧ [%dic:STR_DIC_W_LDF4_Advance_SZ_B_01].</body>
   </string>
   <string>
     <id>1061726</id>
     <name>STR_DIC_W_LDF4_Advance_SZ_V13</name>
-    <body>Obelisk of Settlement;An obelisk in the [%dic:STR_DIC_W_LDF4_Advance_SZ_D_01].</body>
+    <body>نصب ارواح التسوية ؛ نصب ارواح في [%dic:STR_DIC_W_LDF4_Advance_SZ_D_01].</body>
   </string>
   <string>
     <id>1061727</id>
     <name>STR_DIC_W_LDF4_Advance_SZ_V14</name>
-    <body>Northern Supply Base;A defence post on the [%dic:STR_DIC_W_LDF4_Advance_SZ_E_01] that can be occupied.</body>
+    <body>ﻰﻠﻋ ﻲﻋﺎﻓﺩ ﻊﻗﻮﻣ ؛ ﺔﻴﻟﺎﻤﺸﻟﺍ ﻦﻳﻮﻤﺘﻟﺍ ﺓﺪﻋﺎﻗ [%dic:STR_DIC_W_LDF4_Advance_SZ_E_01] .ﺎﻬﻟﻼﺘﺣﺍ ﻦﻜﻤﻳ ﻲﺘﻟﺍ</body>
   </string>
   <string>
     <id>1061728</id>
     <name>STR_DIC_W_LDF4_Advance_SZ_V15</name>
-    <body>Obelisk on the southern Supply Route;An obelisk on the [%dic:STR_DIC_W_LDF4_Advance_SZ_B_01].</body>
+    <body>ﻰﻠﻋ ﺡﺍﻭﺭﺍ ﺐﺼﻧ ؛ ﻲﺑﻮﻨﺠﻟﺍ ﻦﻳﻮﻤﺘﻟﺍ ﻖﻳﺮﻃ ﻰﻠﻋ ﺡﺍﻭﺭﺍ ﺐﺼﻧ [%dic:STR_DIC_W_LDF4_Advance_SZ_B_01].</body>
   </string>
   <string>
     <id>1061729</id>
     <name>STR_DIC_W_LDF4_Advance_SZ_V16</name>
-    <body>Obelisk in the west of the Basin;An obelisk in [%dic:STR_DIC_W_LDF4_Advance_SZ_K_01].</body>
+    <body>ﻲﻓ ﺡﺍﻭﺭﺍ ﺐﺼﻧ ؛ ﻦﻴﺳﺎﺒﻟﺍ ﺏﺮﻏ ﻲﻓ ﺡﺍﻭﺭﺍ ﺐﺼﻧ [%dic:STR_DIC_W_LDF4_Advance_SZ_K_01].</body>
   </string>
   <string>
     <id>1061730</id>
     <name>STR_DIC_W_LDF4_Advance_SZ_V17</name>
-    <body>Obelisk in the north of the settlement;An obelisk in the [%dic:STR_DIC_W_LDF4_Advance_SZ_I_01].</body>
+    <body>ﻲﻓ ﺡﺍﻭﺭﺍ ﺐﺼﻧ ؛ ﺔﻨﻃﻮﺘﺴﻤﻟﺍ ﻝﺎﻤﺷ ﻲﻓ ﺡﺍﻭﺭﺍ ﺐﺼﻧ [%dic:STR_DIC_W_LDF4_Advance_SZ_I_01].</body>
   </string>
   <string>
     <id>1061731</id>
     <name>STR_DIC_W_LDF4_Advance_SZ_V18</name>
-    <body>Obelisk in the east of the settlement;An obelisk in the [%dic:STR_DIC_W_LDF4_Advance_SZ_I_01].</body>
+    <body>ﻲﻓ ﺡﺍﻭﺭﺍ ﺐﺼﻧ ؛ ﺔﻨﻃﻮﺘﺴﻤﻟﺍ ﻕﺮﺷ ﻲﻓ ﺡﺍﻭﺭﺍ ﺐﺼﻧ [%dic:STR_DIC_W_LDF4_Advance_SZ_I_01].</body>
   </string>
   <string>
     <id>1061732</id>
     <name>STR_DIC_W_LDF4_Advance_SZ_V19</name>
-    <body>Obelisk on the Marching Route;An obelisk on the [%dic:STR_DIC_W_LDF4_Advance_SZ_E_01].</body>
+    <body>ﻰﻠﻋ ﺡﺍﻭﺭﺍ ﺐﺼﻧ ؛ ﺮﻴﺴﻟﺍ ﻖﻳﺮﻃ ﻰﻠﻋ ﺡﺍﻭﺭﺍ ﺐﺼﻧ [%dic:STR_DIC_W_LDF4_Advance_SZ_E_01].</body>
   </string>
   <string>
     <id>1061733</id>
     <name>STR_DIC_W_LDF4_Advance_SZ_V20</name>
-    <body>Southern Supply Base;A defence post in [%dic:STR_DIC_W_LDF4_Advance_SZ_J_01]that can be occupied.</body>
+    <body>ﻲﻓ ﻲﻋﺎﻓﺩ ﻊﻗﻮﻣ ؛ ﺔﻴﺑﻮﻨﺠﻟﺍ ﻦﻳﻮﻤﺘﻟﺍ ﺓﺪﻋﺎﻗ [%dic:STR_DIC_W_LDF4_Advance_SZ_J_01].ﺎﻬﻟﻼﺘﺣﺍ ﻦﻜﻤﻳ ﻲﺘﻟﺍ</body>
   </string>
   <string>
     <id>1061734</id>
     <name>STR_DIC_W_LDF4_Advance_SZ_V21</name>
-    <body>Obelisk in the east of the Basin;An obelisk in [%dic:STR_DIC_W_LDF4_Advance_SZ_K_01].</body>
+    <body>ﻲﻓ ﺡﺍﻭﺭﺍ ﺐﺼﻧ ؛ ﻦﻴﺳﺎﺒﻟﺍ ﻕﺮﺷ ﻲﻓ ﺡﺍﻭﺭﺍ ﺐﺼﻧ [%dic:STR_DIC_W_LDF4_Advance_SZ_K_01].</body>
   </string>
   <string>
     <id>1061735</id>
     <name>STR_DIC_W_LDF5_Fortress_SZ_D1_Raid</name>
-    <body>Destroyed Anoha Guardian's Seal;A Rune ruin in which the [%dic:STR_DIC_N_LDF5_Fortress_Named_Spawn_FOBJ] can be found.</body>
+    <body>ﻱﺍ ﻲﻓ ﺔﺑﺮﺨﻣ ﻥﻭﺭ؛ﺱﺍﺮﺤﻟﺍ ﻢﺘﺧ ﺎﻫﻮﻧﺍ ﺕﺮﻣﺪﻣ [%dic:STR_DIC_N_LDF5_Fortress_Named_Spawn_FOBJ] .ﺎﻫﺩﺎﺠﻳﺍ ﻦﻜﻤﻳ</body>
   </string>
   <string>
     <id>1061736</id>
     <name>STR_DIC_W_LDF4_Advance</name>
-    <body>Akaron;Tiamat's headquarters where she regained her strength before ascending to Balaur Lord. The Beritra Army is planning an invasion here.</body>
+    <body>.ﺎﻨﻫ ﻭﺰﻐﻟ ﺎﺘﻳﺮﺑ ﺶﻴﺟ ﻂﻄﺨﻳ .ﺭﻮﻟﺎﺑ ﺩﺭﻮﻠﻟﺍ ﻰﻟﺇ ﺩﻮﻌﺼﻟﺍ ﻞﺒﻗ ﺎﻬﺗﻮﻗ ﺕﺩﺎﻌﺘﺳﺍ ﺚﻴﺣ ﺕﺎﻣﺎﻴﺗ ﺮﻘﻣ ؛ ﻥﻭﺭﺎﻛﺃ</body>
   </string>
   <string>
     <id>1061737</id>
     <name>STR_DIC_W_Arena_clobby</name>
-    <body>Refuge of Returnees;A place in the Empyrean Crucible that was built to support Daevas after their return. Then, it can be entered through the [%dic:STR_DIC_OBJ_Arena_L_clobby_Entrance_In] in Sanctum or with a corresponding returning stone.</body>
+    <body>ﻝﻼﺧ ﻦﻣ ﻪﻟﻮﺧﺩ ﻦﻜﻤﻳ ، ﻢﺛ .ﻢﻬﺗﺩﻮﻋ ﺪﻌﺑ ﺱﺎﻔﻳﺍﺩ ﻢﻋﺪﻟ ﺖﻴﻨﺑ ﻲﺘﻟﺍ ﻞﺒﻴﺳﻭﺮﻛ ﺀﺎﻤﺳ ﻲﻓ ﻥﺎﻜﻣ ؛ ﻦﻳﺪﺋﺎﻌﻟﺍ ﺄﺠﻠﻣ [%dic:STR_DIC_OBJ_Arena_L_clobby_Entrance_In] .ﺓﺩﻮﻌﻠﻟ ﻞﺑﺎﻗ ﺮﺠﺣ ﻊﻣ ﻭﺃ ﻒﻜﺘﻌﻤﻟﺍ ﻲﻓ</body>
   </string>
   <string>
     <id>1061738</id>
     <name>STR_DIC_W_Arena_clobby_D</name>
-    <body>Refuge of Returnees;A place in the Empyrean Crucible that was built to support Daevas after their return. It can be entered through the [%dic:STR_DIC_OBJ_Arena_D_clobby_Entrance_In] in Pandaemonium or with a corresponding returning stone.</body>
+    <body>ﻝﻼﺧ ﻦﻣ ﻪﻟﻮﺧﺩ ﻦﻜﻤﻳ .ﻢﻬﺗﺩﻮﻋ ﺪﻌﺑ ﺱﺎﻔﻳﺍﺩ ﻢﻋﺪﻟ ﺖﻴﻨﺑ ﻲﺘﻟﺍ ﻞﺒﻴﺳﻭﺮﻛ ﺀﺎﻤﺳ ﻲﻓ ﻥﺎﻜﻣ ؛ ﻦﻳﺪﺋﺎﻌﻟﺍ ﺄﺠﻠﻣ [%dic:STR_DIC_OBJ_Arena_D_clobby_Entrance_In] .ﺓﺩﻮﻌﻠﻟ ﻞﺑﺎﻗ ﺮﺠﺣ ﻊﻣ ﻭﺃ ﻡﻮﻴﻧﻮﻤﻳﺪﻧﺎﺑ ﻲﻓ</body>
   </string>
   <string>
     <id>1061739</id>
     <name>STR_DIC_W_DF5_SensoryArea_Q20501a</name>
-    <body>Relic Site;The place where the Relic Fragments were found.</body>
+    <body>.ﺭﺎﺛﻵﺍ ﺎﻳﺎﻘﺑ ﻰﻠﻋ ﻪﻴﻓ ﺮﺜﻋ ﻱﺬﻟﺍ ﻥﺎﻜﻤﻟﺍ ؛ ﺭﺎﺛﻻﺍ ﻊﻗﻮﻣ</body>
   </string>
   <string>
     <id>1061740</id>
     <name>STR_DIC_W_DF5_SensoryArea_Q20503a</name>
-    <body>Aetheric Field Stone Site;The place where a new Aetheric Field Stone was found.</body>
+    <body>.ﺪﻳﺪﺟ ﻚﻳﺮﺛﺍ ﻞﻘﺣ ﺮﺠﺣ ﻰﻠﻋ ﻪﻴﻓ ﺭﻮﺜﻌﻟﺍ ﻢﺗ ﻱﺬﻟﺍ ﻥﺎﻜﻤﻟﺍ؛ﻚﻳﺮﺛﻻﺍ ﻞﻘﺣ ﺮﺠﺣ ﻊﻗﻮﻣ</body>
   </string>
   <string>
     <id>1061741</id>
     <name>STR_DIC_W_DF5_SensoryArea_Q20506a</name>
-    <body>Mysterious Ruins;The place where the lost member of the Search Party carried out his last task.</body>
+    <body>.ﺓﺮﻴﺧﻷﺍ ﻪﺘﻤﻬﻣ ﺚﺤﺒﻟﺍ ﻖﻳﺮﻓ ﻲﻓ ﺩﻮﻘﻔﻤﻟﺍ ﻮﻀﻌﻟﺍ ﻪﻴﻓ ﺫّﻔﻧ ﻱﺬﻟﺍ ﻥﺎﻜﻤﻟﺍ :ﺔﻀﻣﺎﻐﻟﺍ ﻝﻼﻃﻷﺍ</body>
   </string>
   <string>
     <id>1061742</id>
     <name>STR_DIC_W_DF5_SensoryArea_Q20507a</name>
-    <body>Gloomy Cave;The energy here is similar to that found in the Crystal Cave.</body>
+    <body>.ﻝﺎﺘﺴﻳﺮﻜﻟﺍ ﻒﻬﻛ ﻲﻓ ﺓﺩﻮﺟﻮﻤﻟﺍ ﻚﻠﺘﻟ ﺔﻬﺑﺎﺸﻣ ﺎﻨﻫ ﺔﻗﺎﻄﻟﺍ ؛ ﺔﺑﺎﺌﻜﻟﺍ ﻒﻬﻛ</body>
   </string>
   <string>
     <id>1061743</id>
     <name>STR_DIC_W_LF4_Underpass_door</name>
-    <body>Inggison Entrance to Silentera;Entrance to Silentera Canyon which is located in the Angrief Ruins of Inggison.</body>
+    <body>.ﻥﻮﺴﻴﺠﻧﺇ ﻲﻓ ﻒﻳﺮﺠﻧﺃ ﻝﻼﻃﺃ ﻲﻓ ﻊﻘﻳ ﻱﺬﻟﺍ ﺍﺮﻴﺘﻨﻠﻳﺎﺳ ﺩﺍﻭ ﻞﺧﺪﻣ ؛ ﺍﺮﻴﺘﻨﻠﻳﺎﺳ ﻰﻟﺍ ﻥﻮﺴﻴﺠﻧﺇ ﻞﺧﺪﻣ</body>
   </string>
   <string>
     <id>1061744</id>
     <name>STR_DIC_IDSweep</name>
-    <body>Trillonerk's Gold Vault;A Gold Vault full of gold and silver coins, belonging to Shugo Emperor Trillonerk. Kobolds, Shulacks and Balaur are trying to break in. It can be accessed through [%dic:STR_DIC_NPC_IDSweep_IN_NPC01].</body>
+    <body>ﻝﻼﺧ ﻦﻣ ﺎﻬﻴﻟﺇ ﻝﻮﺻﻮﻟﺍ ﻦﻜﻤﻳ .ﺎﻬﻗﺍﺮﺘﺧﺍ "ﺭﻮﻟﺎﺑ" ﻭ "ﺲﻛﻻﻮﺷ" ﻭ "ﺯﺪﻟﻮﺑﻮﻛ" ﻦﻣ ﻞﻛ ﻝﻭﺎﺤﻳ .ﻙﺮﻧﻮﻠﻳﺮﺗ ﻮﻏﻮﺷ ﺭﻮﻃﺍﺮﺒﻣﻻﺍ ﻰﻟﺇ ﻲﻤﺘﻨﺗ ، ﺔﻴﻀﻓﻭ ﺔﻴﺒﻫﺫ ﻊﻄﻘﺑ ﺔﺌﻴﻠﻣ ﺔﻴﺒﻫﺫ ﺔﻧﺰﺧ ؛ ﺔﻴﺒﻫﺬﻟﺍ ﻙﺮﻧﻮﻠﻳﺮﺗ ﺔﻧﺰﺧ [%dic:STR_DIC_NPC_IDSweep_IN_NPC01].</body>
   </string>
   <string>
     <id>1061745</id>
     <name>STR_DIC_IDSweep_Room01</name>
-    <body>Burglary Site;This is where the burglars broke into the [%dic:STR_DIC_IDSweep] and left behind traces. It is guarded by Jabaraki.</body>
+    <body>ﺹﻮﺼﻠﻟﺍ ﻪﻴﻓ ﻢﺤﺘﻗﺍ ﻱﺬﻟﺍ ﻥﺎﻜﻤﻟﺍ ﻮﻫ ﺍﺬﻫ ؛ ﻮﻄﺴﻟﺍ ﻊﻗﻮﻣ [%dic:STR_DIC_IDSweep] .ﻲﻛﺍﺭﺎﺑﺎﺟ ﺎﻬﺳﺮﺤﻳ .ﺭﺎﺛﺁ ﻢﻬﺋﺍﺭﻭ ﺍﻮﻛﺮﺗﻭ</body>
   </string>
   <string>
     <id>1061746</id>
     <name>STR_DIC_IDSweep_Room02</name>
-    <body>Entrance to the Gold Vault;The entrance to Shugo Emperor Trillonerk's Gold Vault. It is guarded by Haruki.</body>
+    <body>.ﻲﻛﻭﺭﺎﻫ ﺎﻬﺳﺮﺤﻳ .ﻙﺮﻧﻮﻠﻳﺮﺗ ﻮﻏﻮﺷ ﺭﻮﻃﺍﺮﺒﻣﻼـﻟ ﻲﺒﻫﺬﻟﺍ ﻥﺰﺨﻤﻟﺍ ﻰﻟﺍ ﻞﺧﺪﻣ ؛ ﺔﻴﺒﻫﺬﻟﺍ ﺔﻧﺰﺨﻟﺍ ﻰﻟﺇ ﻞﺧﺪﻣ</body>
   </string>
   <string>
     <id>1061747</id>
     <name>STR_DIC_IDSweep_Room03</name>
-    <body>Emperor's Gold Vault;Shugo Emperor's Gold Vault full of gold and silver coins.</body>
+    <body>.ﺔﻴﻀﻔﻟﺍﻭ ﺔﻴﺒﻫﺬﻟﺍ ﺕﻼﻤﻌﻟﺎﺑ ﺀﻲﻠﻤﻟﺍ ﻲﺒﻫﺬﻟﺍ ﻮﻏﻮﺷ ﺭﻮﻃﺍﺮﺒﻣﻹﺍ ﻥﺰﺨﻣ ، ﻲﺒﻫﺬﻟﺍ ﺭﻮﻃﺍﺮﺒﻣﻹﺍ ﻥﺰﺨﻣ</body>
   </string>
   <string>
     <id>1061748</id>
     <name>STR_DIC_IDSweep_Room04</name>
-    <body>Centre of the Gold Vault;The centre of the Gold Vault, in which the treasures of the Shugos are hidden.</body>
+    <body>.ﺱﻮﻏﻮﺷ ﺯﻮﻨﻛ ﺀﺎﻔﺧﺇ ﻢﺘﻳ ﺚﻴﺣ ، ﺔﻴﺒﻫﺬﻟﺍ ﺔﻧﺰﺨﻟﺍ ﺰﻛﺮﻣ ؛ ﺔﻴﺒﻫﺬﻟﺍ ﺔﻧﺰﺨﻟﺍ ﺰﻛﺮﻣ</body>
   </string>
   <string>
     <id>1061749</id>
     <name>STR_DIC_W_LF5</name>
-    <body>Signia;This area rose from the sea when the continents of Atreia were destroyed after the Great Invasion. The New Start Legion was sent there to investigate what had happened.</body>
+    <body>.ﺙﺪﺣ ﺎﻣ ﻲﻓ ﻖﻴﻘﺤﺘﻠﻟ ﻙﺎﻨﻫ ﻰﻟﺇ ﺪﻳﺪﺠﻟﺍ ﻖﻠﻴﻔﻟﺍ ﻝﺎﺳﺭﺇ ﻢﺗ .ﻢﻴﻈﻌﻟﺍ ﻭﺰﻐﻟﺍ ﺪﻌﺑ ﺎﻳﺮﺗﺃ ﺕﺍﺭﺎﻗ ﺮﻴﻣﺪﺗ ﻢﺗ ﺎﻣﺪﻨﻋ ﺮﺤﺒﻟﺍ ﻦﻣ ﺔﻘﻄﻨﻤﻟﺍ ﻩﺬﻫ ﺖﻌﻔﺗﺭﺍ ؛ ﺎﻴﻨﺠﻴﺳ</body>
   </string>
   <string>
     <id>1061750</id>
     <name>STR_DIC_W_LF5_SZ_A_01</name>
-    <body>Blue Mist Swamp;This area is home to the headquarters of the New Start Legion, which was sent to [%dic:STR_DIC_W_LF5].</body>
+    <body>ﻰﻟﺇ ﻪﻟﺎﺳﺭﺇ ﻢﺗ ﻱﺬﻟﺍ ، "ﺓﺪﻳﺪﺟ ﺔﻳﺍﺪﺑ ﻖﻠﻴﻓ" ﺮﻘﻤﻟ ﻦﻃﻮﻣ ﻲﻫ ﺔﻘﻄﻨﻤﻟﺍ ﻩﺬﻫ ؛ ﺖﺴﻴﻣ ﻮﻠﺑ ﻊﻘﻨﺘﺴﻣ [%dic:STR_DIC_W_LF5].</body>
   </string>
   <string>
     <id>1061751</id>
     <name>STR_DIC_W_LF5_SZ_B_01</name>
-    <body>Southern Coral Hills;An area in [%dic:STR_DIC_W_LF5].</body>
+    <body>ﻲﻓ ﺔﻘﻄﻨﻣ ؛ ﺔﻴﺑﻮﻨﺠﻟﺍ ﻝﺍﺭﻮﻛ ﻝﻼﺗ [%dic:STR_DIC_W_LF5].</body>
   </string>
   <string>
     <id>1061752</id>
     <name>STR_DIC_W_LF5_SZ_C_01</name>
-    <body>Northern Coral Hills;An area in [%dic:STR_DIC_W_LF5]. The [%dic:STR_DIC_W_LF5_SZ_Village_01] is located there.</body>
+    <body>ﻲﻓ ﺔﻘﻄﻨﻣ ؛ ﺔﻴﻟﺎﻤﺸﻟﺍ ﻝﺍﺭﻮﻛ ﻝﻼﺗ [%dic:STR_DIC_W_LF5]. ﻝﺍ [%dic:STR_DIC_W_LF5_SZ_Village_01] .ﻙﺎﻨﻫ ﻊﻘﻳ</body>
   </string>
   <string>
     <id>1061753</id>
